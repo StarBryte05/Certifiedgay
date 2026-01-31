@@ -1,0 +1,34 @@
+*{
+    background-color: rgb(197, 135, 255);
+}
+.page1{
+    text-align: center;
+    align-content: center;
+}
+.text{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+img{
+    margin-top: 250px;
+    width: 200px;
+    height: 200px;
+}
+.button{
+    justify-content: center;
+    display: flex;
+    justify-content: space-around;
+}
+.w{
+    background-color: green;
+}
+.r{
+    background-color: red;
+}
+button{
+    padding: 20px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
